@@ -1,3 +1,3 @@
 # SimpleCube
 
-Simple texture mapped cube using OpenGL ES3 profile
+Simple texture mapped cube with GUI and picking using OpenGL.
