@@ -1,4 +1,4 @@
-# SimpleCube
+Screenshot
 
 Simple texture mapped cube with x/y axes drawn with mouse picking ability using OpenGL.
 
